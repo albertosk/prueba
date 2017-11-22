@@ -1,27 +1,29 @@
 # URI de Google
 
-1. https://www.google.es/search?ei=034UWs30JczWgAbEq6LwCg&q=como+buscar+algo+en+google&oq=como+buscar+algo+en+google&gs_l=psy-ab.3..0l3j0i22i30k1l7.9596.18375.0.18940.27.27.0.0.0.0.102.2150.25j1.27.0....0...1.1.64.psy-ab..0.27.2246.6..35i39k1j0i67k1j0i131k1.104.YnQtdH1zV8s
+1. <https://www.google.es/search?q=como+buscar+algo>
 
-2.https://www.google.es/search?ei=FH8UWqaZF6PQgAbf9pygAw&q=centro+de+ense%C3%B1anza+gregorio+fernandez&oq=centro+de+ense%C3%B1anza+grego&gs_l=psy-ab.1.0.0.26021.31151.0.33075.25.25.0.0.0.0.120.2080.24j1.25.0....0...1.1.64.psy-ab..0.25.2071...35i39k1j0i67k1j0i131k1j0i22i30k1j0i22i10i30k1.0.6ey-YhRFJrM
+2. <https://www.google.es/search?q=centro+de+enseñanza+gregorio+fernandez>
 
-3.https://www.google.es/search?ei=Nn8UWufLFaHCgAbb5a7ADg&q=gregorio+fernandez+-escultor&oq=gregorio+fernandez+-escultor&gs_l=psy-ab.3...48257.56317.0.56496.28.28.0.0.0.0.112.2244.25j3.28.0....0...1.1.64.psy-ab..0.20.1725...0j35i39k1j0i67k1j0i131i67k1j0i131k1j0i22i30k1.0.YpWh0wwsYss
+3. <https://www.google.es/search?q=gregorio+fernandez+-escultor>
 
-4.
+4. <https://www.google.es/search?q=gregorio+fernandez&num=3>
 
-5.
+5. <https://www.google.es/search?q=league+of+legends&as_filetype=jpg>
 
-6.
+6. <https://www.google.es/?q=bots&as_sitesearch=euw.leagueoflegends.com>
 
-7.
+7. <https://www.google.es/search?q=hackers&d>
 
-8.
+8. <https://www.google.es/search?q=league+of+legends&as_filetype=jpg&as_rights=cc_publicdomain|cc_attribute|cc_sharealike.-cc_noncommercial|cc_nonderived>
 
-9.
+9. <https://www.google.es/search?q=allintitle%3bitcoin+robar>
 
-10.
+<https://www.google.es/search?q=robar+bitcoin>
 
-11.
+10. <https://www.google.es/search?q=define%3orate>
 
-12.
+11. <https://www.google.es/search?q=youtube%lang_de>
 
-13.
+12. <https://www.google.es/search?q=youtube&cr=countryDE>
+
+13. <https://www.google.es/search?q=youtube%lang_de&cr=countryDE>
